@@ -1,2 +1,2 @@
 # Counter
-![Демонстрация](https://github.com/AlexBirin/Gounter/blob/main/Счетчик.JPG)
+![Демонстрация](https://github.com/AlexBirin/Counter/blob/main/Счетчик.JPG)
